@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLDataAccessDemo", "SQLDataAccessDemo\SQLDataAccessDemo.csproj", "{CACCBC53-F947-4731-B6E8-E93EA06CFC74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACCBC53-F947-4731-B6E8-E93EA06CFC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACCBC53-F947-4731-B6E8-E93EA06CFC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACCBC53-F947-4731-B6E8-E93EA06CFC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACCBC53-F947-4731-B6E8-E93EA06CFC74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BD472FF-13AA-44AD-9296-93D97B805649}
+	EndGlobalSection
+EndGlobal

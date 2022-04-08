@@ -1,0 +1,14 @@
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\bin\Debug\SQLDataAccessDemo.exe.config
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\bin\Debug\SQLDataAccessDemo.exe
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\bin\Debug\SQLDataAccessDemo.pdb
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\bin\Debug\Dapper.dll
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\bin\Debug\Dapper.xml
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.csproj.AssemblyReference.cache
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.Dashboard.resources
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.Properties.Resources.resources
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.csproj.GenerateResource.cache
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.csproj.CopyComplete
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.exe
+C:\Users\Tours\Downloads\Documents\Desktop\informatika 11 klas\SQLDataAccessDemo\SQLDataAccessDemo\obj\Debug\SQLDataAccessDemo.pdb
